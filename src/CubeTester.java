@@ -5,6 +5,7 @@ import static org.junit.Assert.assertTrue;
 
 public class CubeTester {
 
+
     @Test
     public void TestNoArgumentConstructorNoException() {
         Cube cube = new Cube();
